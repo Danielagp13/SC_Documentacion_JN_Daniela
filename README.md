@@ -1,2 +1,2 @@
-# SC_Documentacion_JN_Daniela
+# SC_302_Documentacion_JN_Daniela
 Documentación
